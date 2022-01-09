@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @nightuuuu-dev i'm 16 YO
-- 👀 I’m interested in Minecraft Client Coding
-- 🌱 I’m currently learning Javaa
-- 💞️ I’m looking to collaborate on GZ Client
-- 📫 How to reach me discord nightuuuu_dev#2137
+- 👋 Hi, I’m @nightuuuu-dev i'm 17 YO
+- 👀 I’m interested in Minecraft Serwer Making
+- 🌱 I’m currently learning Java
+- 💞️ GZCommunity / GZHC Owner
+- 📫 How to reach me discord night++#4342
 
 <!---
 nightuuuu-dev/nightuuuu-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
